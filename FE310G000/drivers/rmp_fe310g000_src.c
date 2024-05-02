@@ -1,17 +1,17 @@
 
 /* Includes ******************************************************************/
 #define __HDR_DEFS__
-#include "Platform/RV32G/rmp_platform_rv32g.h"
+#include "Platform/RV32P/rmp_platform_rv32p.h"
 #include "Kernel/rmp_kernel.h"
 #undef __HDR_DEFS__
 
 #define __HDR_STRUCTS__
-#include "Platform/RV32G/rmp_platform_rv32g.h"
+#include "Platform/RV32P/rmp_platform_rv32p.h"
 #include "Kernel/rmp_kernel.h"
 #undef __HDR_STRUCTS__
 
 /* Private include */
-#include "Platform/RV32G/rmp_platform_rv32g.h"
+#include "Platform/RV32P/rmp_platform_rv32p.h"
 
 #define __HDR_PUBLIC_MEMBERS__
 #include "Kernel/rmp_kernel.h"
